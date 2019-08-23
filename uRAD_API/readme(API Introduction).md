@@ -7,7 +7,7 @@ Author: Lihua Pei (Neo)
 
 uRAD Monitor provide the api to request data for the user. 
 
-This is the  detailed  [uRAD_Monitor_API_Introduction](cod_file\uradmonitor_API.pdf) documention.
+This is the  detailed  [uRAD_Monitor_API_Introduction](https://github.com/LihuaPeiNeo/Fresh_Air_DC_neo/tree/master/uRAD_API/code_file/uradmonitor_API.pdf) documention.
 
 1. We need to open the terminal.
 2. Type the commend lines: 

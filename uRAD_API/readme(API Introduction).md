@@ -7,7 +7,7 @@ Author: Lihua Pei (Neo)
 
 uRAD Monitor provide the api to request data for the user. 
 
-This is the  detailed  [uRAD_Monitor_API_Introduction](uradmonitor_API.pdf) documention.
+This is the  detailed  [uRAD_Monitor_API_Introduction](cod_file\uradmonitor_API.pdf) documention.
 
 1. We need to open the terminal.
 2. Type the commend lines: 
@@ -44,7 +44,7 @@ The data looks like:
 
 ## 2. uRAD_Monitor_API quary data by Python.
 
-Please check the source code [uRAD_API_Insert.py](uRAD_API_Insert.py) for more detailed uRAD_API request, data preprocessing and database insert. 
+Please check the source code [uRAD_API_Insert.py](cod_file\uRAD_API_Insert.py) for more detailed uRAD_API request, data preprocessing and database insert. 
 
 #### 1. Import the python packages.
 
@@ -113,6 +113,3 @@ The new formed data looks like:
  'Time_Str': '2019-08-16 19:08','Year': 2019,'Month': 8,'Day': 16,'Hour': 19,'minute': 8}
 ```
 
-#### 4 Database Insert.
-
-Connect to the database and get 

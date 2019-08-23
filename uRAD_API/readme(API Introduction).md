@@ -44,7 +44,7 @@ The data looks like:
 
 ## 2. uRAD_Monitor_API quary data by Python.
 
-Please check the source code [uRAD_API_Insert.py](cod_file\uRAD_API_Insert.py) for more detailed uRAD_API request, data preprocessing and database insert. 
+Please check the source code [uRAD_API_Insert.py](https://github.com/LihuaPeiNeo/Fresh_Air_DC_neo/tree/master/uRAD_API/code_file/uRAD_API_Insert.py) for more detailed uRAD_API request, data preprocessing and database insert. 
 
 #### 1. Import the python packages.
 

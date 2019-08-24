@@ -16,9 +16,9 @@ connection = pymysql.connect(host='127.0.0.1',
                              
                              # host = 127.0.0.1 or host = 'localhost'(本地电脑)
                              port= 3306,
-                             db = 'freshairdata',
-                             user = 'freshairdc',
-                             password = 'C8<CuFAFW7Vi<LUL',
+                             db = 'your_database_name',
+                             user = 'your_username',
+                             password = 'your_pasword',
                              cursorclass=pymysql.cursors.DictCursor)
 
 

@@ -65,6 +65,8 @@ select count(*) from 14000058_Minute_Average where Month = 8 AND Day = 19;
 
 
 
+
+
 ## 1. Basic Linux Commend Lines.
 
 #### ls

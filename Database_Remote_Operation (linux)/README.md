@@ -17,9 +17,11 @@ password: your_password
 
 ##### Step 1: Open the MariaDB (Like you open the facebook app on your phone).
 ```bash
-$ mysql -u freshairdc -p 
+mysql -u freshairdc -p 
 Enter pasword: your_database_password
+
 Welcome to the MariaDB monitor.  Commands end with ; or \g.
+
 MariaDB [(none)]> 
 ```
 

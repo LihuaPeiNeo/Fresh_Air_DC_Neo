@@ -48,7 +48,7 @@ Example 1: find every data from table 1400005A (Star sign * means everything).
 ```bash
 select * from 1400005A_Minute_Average;
 ```
-(* means everything)
+
 
 Example 2: find how many data rows we have at 08/19/2019 of 14000058.
 ```bash
